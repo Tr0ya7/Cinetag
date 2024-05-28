@@ -14,5 +14,5 @@ https://github.com/Tr0ya7/Cinetag.git
 ```
 Entre no diretório que acabou de ser criado:
 ```
-cd PortfolioV3.git
+cd Cinetag.git
 ```
